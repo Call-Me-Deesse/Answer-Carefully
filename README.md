@@ -1,13 +1,18 @@
 # Fiction-interactive
-Ma fiction interactive pour le cours d'Isaac Pante
+Cette fiction a été développé dans le cadre du cours de fiction interactive donné par Isaac Pante à l'université de Lausanne.
 
-Cette fiction interactive a été développée sur Ren'Py et se base sur les ressources suivantes :
+## Ressources utilisées
+
 [jung_functions.pdf](https://github.com/user-attachments/files/15754306/jung_functions.pdf)
 [personalitytypes.pdf](https://github.com/user-attachments/files/15754308/personalitytypes.pdf)
 
 Ainsi que diverses ressources web telles que les pages wikipedia concernant les 16 des différents types de personnalités.
-Certains choix ont été faits après réflexions personnelles et observations sur mon entourage.
+https://fr.wikipedia.org/wiki/Typologie_jungienne#Fonctions_psychologiques (consulté le 09.06.2024)
 
+Certains choix ont été faits de manière subjective après réflexions personnelles et observations sur mon entourage.
 
+## Logiciel
 
-Date de publication : 09.06.2024
+Mon projet a été réalisé sous Ren'Py.
+[https://www.renpy.org/]
+
