@@ -1,5 +1,4 @@
 # Fiction-interactive
-Cette fiction a été développé dans le cadre du cours de fiction interactive donné par Isaac Pante à l'université de Lausanne.
 
 ## Ressources utilisées
 
@@ -16,3 +15,6 @@ Certains choix ont été faits de manière subjective après réflexions personn
 Mon projet a été réalisé sous Ren'Py.
 [https://www.renpy.org/]
 
+## Auteur
+Laure Demierre
+Cette fiction a été développé dans le cadre du cours de fiction interactive donné par Isaac Pante à l'université de Lausanne.
