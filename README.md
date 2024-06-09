@@ -16,5 +16,5 @@ Mon projet a été réalisé sous Ren'Py.
 [https://www.renpy.org/]
 
 ## Auteur
-Laure Demierre
+Laure Demierre <br/>
 Cette fiction a été développé dans le cadre du cours de fiction interactive donné par Isaac Pante à l'université de Lausanne.
