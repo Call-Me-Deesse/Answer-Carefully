@@ -1,5 +1,12 @@
 # Fiction-interactive
 
+## Mode d'emploi
+
+* 1. Télécharger Ren'Py [https://www.renpy.org/] 
+* 2. Copier le lien URL du repository Github et
+* 3. Cloner le repository sur Visual Studio Code [https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository]
+
+
 ## Ressources utilisées
 
 [jung_functions.pdf](https://github.com/user-attachments/files/15754306/jung_functions.pdf)
