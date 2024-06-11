@@ -1,5 +1,13 @@
 # Fiction-interactive
 
+## Description
+Fiction interactive visant à introduire les fonctions cognitives développées par Jung de manière ludique. Cette fiction introduit aussi certaines situations exemples type de certains processus cognitifs spécifiques et tente de déterminer les fonctions principalement utilisées par le joueur.
+
+## Illustration
+
+![Capture d’écran (89)](https://github.com/Call-Me-Deesse/Fiction-interactive/assets/77760910/58d860f3-ce11-4b29-b426-85152c8fa1f8)
+
+
 ## Mode d'emploi
 
 * 1. Télécharger Ren'Py [https://www.renpy.org/] 
@@ -17,11 +25,11 @@ https://fr.wikipedia.org/wiki/Typologie_jungienne#Fonctions_psychologiques (cons
 
 Certains choix ont été faits de manière subjective après réflexions personnelles et observations sur mon entourage.
 
-## Logiciel
+## Logiciel utilisé
 
 Mon projet a été réalisé sous Ren'Py.
 [https://www.renpy.org/]
 
 ## Auteur
-Laure Demierre <br/>
-Cette fiction a été développé dans le cadre du cours de fiction interactive donné par Isaac Pante à l'université de Lausanne.
+
+Cette fiction a été développée par Laure Demierre dans le cadre du cours de fiction interactive dispensé par Isaac Pante à l'université de Lausanne en faculté de lettres, section des sciences du langage et de l'information.
