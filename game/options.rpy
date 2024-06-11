@@ -49,6 +49,7 @@ define build.name = "Answercarefully"
 define config.has_sound = True
 define config.has_music = True
 define config.has_voice = True
+define config.rollback_enabled =False
 
 
 ## To allow the user to play a test sound on the sound or voice channel,
