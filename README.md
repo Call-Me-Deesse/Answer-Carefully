@@ -10,9 +10,11 @@ Fiction interactive visant à introduire les fonctions cognitives développées 
 
 ## Mode d'emploi
 
-* 1. Télécharger Ren'Py [https://www.renpy.org/] 
-* 2. Copier le lien URL du repository Github et
-* 3. Cloner le repository sur Visual Studio Code [https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository]
+ 1. Télécharger Ren'Py [https://www.renpy.org/]
+ 2. Cliquez sur l'onglet code du Github et téléchargez le fichier zip.
+ 3. Extrayez le fichier zip.
+ 4. Placez le fichier obtenu où se trouvent vos fichiers Ren'Py (vous pouvez obtenir cette information sous "preferences", puis, "Projects Directory" lorsque vous démarrez Ren'Py).
+ 5. Une fois le fichier placé, appuyez sur "refresh" pour mettre à jour les projets que vous pouvez lancer sous Ren'Py.
 
 
 ## Ressources utilisées
