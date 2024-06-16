@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 55: expected statement.
-    config.rollback_enabled =False
-                            ^
+File "game/options.rpy", line 21: end of line expected.
+    add "5_disagree.png" xpos 100 ypos 100
+                         ^
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Tue Jun 11 01:45:00 2024
+Tue Jun 11 05:08:28 2024

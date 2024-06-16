@@ -50,6 +50,8 @@ init:
     $ Te = 0
     $ Ti = 0
 
+
+
     
 
 screen debut_message1():
@@ -72,6 +74,14 @@ label start:
     
 
 label debut:
+    $ Fe = 0
+    $ Fi = 0
+    $ Ne = 0
+    $ Ni = 0
+    $ Se = 0
+    $ Si = 0
+    $ Te = 0
+    $ Ti = 0
     "???" "On est arrivés !"
     play music "music_base.mp3"
     scene interieur_voiture
@@ -94,13 +104,9 @@ label debut:
     menu choix_E :
         a "Oui mais je devais finir un projet ..."
         "Un de mes partenaire pour un projet s'y est pris à la dernière minute et j'ai du l'aider.":
-            $ Te += 1
-            $ Fe += 1
             b "Ha je vois, jamais facile les travaux de groupe."
             jump Fe_Te
         "Je n'arrive pas à me motiver à faire les choses à l'avance et j'ai du rush pour finir à temps.":
-            $ Se += 1
-            $ Ne += 1
             b "Tant que tu arrives à finir dans les temps ma foi."
             jump Ne_Se
 label Fe_Te:
@@ -528,7 +534,7 @@ label Te_Si:
     show e blush:
         xpos 1250
         ypos 150 
-    "{i}%e(e)s but honteusement avant de tirer une carte pour me poser une question.{\i}"
+    "{i}%(e)s but honteusement avant de tirer une carte pour me poser une question.{\i}"
     show e:
         xpos 1250
         ypos 150 
@@ -949,7 +955,7 @@ label fin :
             g "Vous tendez néanmoins à vous disperser dans tous les sens et abandonner des projets en cours ou pas encore commencé."
             g "Vous détestez la routine et dites oui à tout ce qui pourrait être nouveau et surprenant."
     g "Malgré vos résultats ne prenez pas votre type pour acquis. N'hésitez pas à lire à propos des 4 fonctions cognitives et leurs aspects introvertis et extravertis."
-    g "Les tests, même celui-ci, ne sont jamais 100% fiables et il n'est pas rare de se considérer comme appartenant au mauvais type."
+    g "Les tests, même celui-ci, ne sont jamais 100 pourcents fiables et il n'est pas rare de se considérer comme appartenant au mauvais type."
     g "Renseignez-vous et essayez de trouver quels schémas de pensée vous utilisez par vous-mêmes !"
 label fin2:
     menu explication:
