@@ -24,6 +24,27 @@ Site : https://fr.wikipedia.org/wiki/Typologie_jungienne#Fonctions_psychologique
 
 Certains choix ont été faits de manière subjective après réflexions personnelles et observations sur mon entourage.
 
+Images utilisées pour les backgrounds : 
+https://virtualbackgrounds.site/wp-content/uploads/2020/10/ford-mustang-drivers-seat.jpg
+https://www.re-thinkingthefuture.com/wp-content/uploads/2021/03/A3743-20-Best-Art-Galleries-in-London-IMAGE-4.jpg
+https://i.pinimg.com/originals/71/9a/c0/719ac01f227e1ccde9e7be70a025ad1b.jpg
+https://www.grandpropertiescollection.com/uploads/news/a1b1e3ec383f495a0a7ad396f7b0d425d1405026.jpeg
+https://i.pinimg.com/originals/70/46/fb/7046fb766fc94c9ca2b3e905f31f04df.jpg
+https://offloadmedia.feverup.com/parissecret.com/wp-content/uploads/2020/06/19142125/Capture-d%E2%80%99%C3%A9cran-88.png
+https://www.chalamar.com/media/chalets/switzerland/verbier/virmadisa/chalet-virmadisa-verbier-entrance-hallway.jpg
+https://i.pinimg.com/originals/40/af/da/40afda3d41b426a2c87f0baeeda61eb7.jpg
+https://i0.wp.com/stackinggurus.com/wp-content/uploads/2018/07/20180730_152647.jpg?fit=4032%2C3024
+https://duckduckgo.com/?q=sight+city+snow+from+above+mountain+zurich&iar=images&iax=images&ia=images&iai=http%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2015%2F12%2F253951-nature-landscape-panoramas-lake-Zurich-Switzerland-cityscape-mountain-snowy_peak-sunrise-sky-clouds-lights.jpg
+https://img.homejournal.com/201912/5df87ff0d1a16.jpg
+
+Assets utilisées pour les personnages : 
+https://aucrowne.itch.io/vn-alice
+https://aucrowne.itch.io/vn-eve
+https://witpop.itch.io/sprite-pack-male-dark-hair
+https://minttydrops.itch.io/alphonse-pack
+https://xiael.itch.io/free-sprite-mikhail
+https://nsaid.itch.io/glasses-guy
+
 ## Logiciel utilisé
 
 Mon projet a été réalisé sous Ren'Py.
